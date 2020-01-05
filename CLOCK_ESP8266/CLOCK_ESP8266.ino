@@ -1,7 +1,7 @@
 /*
  * edited by UT9UF
  * ut9uf@ukr.net Jan 5, 2020
- * 
+ * https://github.com/andykv59/ESP8266-clock-72
  * based on Марсель Ахкамов clock
  * 
  */
